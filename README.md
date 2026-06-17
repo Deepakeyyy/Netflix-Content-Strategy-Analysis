@@ -32,6 +32,17 @@ The dataset contains 8,807 Netflix titles with information including:
 
 ---
 
+## Skills Demonstrated
+
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Feature Engineering
+- Business Insight Generation
+- Data-Driven Recommendations
+
+---
+
 ## Analysis Performed
 
 ### Content Type Analysis
